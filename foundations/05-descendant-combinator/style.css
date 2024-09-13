@@ -1,0 +1,35 @@
+div p {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+/*
+Alternate Solutions
+
+With classes:
+    .container .text {
+        background-color: yellow;
+        color: red;
+        font-size: 20px;
+        text-align: center;
+    }
+
+With type then class:
+    div .text {
+        background-color: yellow;
+        color: red;
+        font-size: 20px;
+        text-align: center;
+    }
+
+With class then type:
+    .container p {
+        background-color: yellow;
+        color: red;
+        font-size: 20px;
+        text-align: center;
+    }
+
+*/
